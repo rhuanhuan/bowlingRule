@@ -1,0 +1,29 @@
+{
+  "name": "bowling_test",
+  "version": "1.0.0",
+  "description": "This is to caculate the final socer of a bowling game. The bowling rules can refers to this page: http://code.joejag.com/coding-dojo/bowling-scores/",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rhuanhuan/bowlingRule.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rhuanhuan/bowlingRule/issues"
+  },
+  "homepage": "https://github.com/rhuanhuan/bowlingRule#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-jasmine": "^2.4.1",
+    "gulp-jshint": "^2.0.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^2.3.2",
+    "gulp-uglify": "^2.0.0",
+    "jasmine": "^2.5.1"
+  }
+}
